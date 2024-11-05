@@ -9,6 +9,9 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@formatjs/intl-locale": "^4.2.4",
+    "@formatjs/intl-numberformat": "^8.14.4",
+    "@formatjs/intl-pluralrules": "^5.3.4",
     "expo": "~51.0.28",
     "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
